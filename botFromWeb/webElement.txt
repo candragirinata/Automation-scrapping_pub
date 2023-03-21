@@ -1,0 +1,8 @@
+name,department,birthday month
+John Smith,Accounting,November
+Erica Meyers,IT,March
+
+
+/html/body/div[1]/section/main/div/div[3]/article/div/div/div[1]/div[1]/a/div[2]
+/html/body/div[1]/section/main/div/div[2]/article/div/div/div[1]/div[1]/a/div[2]
+
